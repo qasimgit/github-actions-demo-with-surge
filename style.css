@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div h1{
+color: black;
+background-color: lightblue;
+text-align: center;
+font-size:  35px;
+margin-top: 30px;
+padding: 30px;
+}
+
+.lists{
+    color: black;
+    background-color:lightcyan ;
+    font-size: 25px;
+    padding: 30px;
+    margin-top: 10px;
+    }
+    
+
