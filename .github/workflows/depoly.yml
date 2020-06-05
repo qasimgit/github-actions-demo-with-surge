@@ -20,5 +20,5 @@ jobs:
     - name: Install Surge
       run: npm install -g surge
     - name: Run Surge
-      run: surge ./ github-workflow-g-action-surge.surge.sh --token ${{Secret.SURGE_TOKEN}}       
+      run: surge ./ github-workflow-g-action-surge.surge.sh --token ${{secrets.SURGE_TOKEN}}       
           
